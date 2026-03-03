@@ -114,8 +114,8 @@ console.log(reverseStr("hello")); // olleh
 console.log(countChar("hello")); // 5
 console.log(capitalizeWords("hello world")); // "Hello World"
 
-console.log(findMax([2, 5, 6, 9, 0])); // 5
-console.log(sum([1, 5, 7])); //10
+console.log(findMax([2, 5, 6, 9, 0])); // 9
+console.log(sum([1, 5, 7])); //13
 console.log(filterArr([1, 5, 3, 6], (x) => x > 3)); // [5,6]
 
 console.log(factorial(5)); // 120
